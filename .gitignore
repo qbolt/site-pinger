@@ -1,3 +1,15 @@
+src/system-config.js*
+src/app/**/*.js
+src/app/**/*.map
+src/**/*.js
+src/**/*.map
+node_modules
+jspm_packages
+bower_components
+aot/*
+dist/*
+yarn.lock
+
 # webpack output directory
 dist
 
@@ -25,4 +37,3 @@ build/Release
 # Dependency directory
 # Deployed apps should consider commenting this line out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
-node_modules
